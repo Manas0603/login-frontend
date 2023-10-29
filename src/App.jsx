@@ -46,7 +46,7 @@ const MainContainer = styled.div`
   display: flex;
   align-items: center;
   flex-direction: column;
-  height: 40vh;
+  height: 80vw;
   width: 30vw;
   background: rgba(255, 255, 255, 0.15);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
@@ -99,7 +99,7 @@ const WelcomeText = styled.h2`
 const InputContainer = styled.div`
   display: flex;
   flex-direction: column;
-  margin: 1rem 0 0.5rem 0;
+  margin: 1rem 0 1.5rem 0; 
   justify-content: space-around;
   align-items: center;
   height: 20%;
